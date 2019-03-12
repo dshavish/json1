@@ -1,0 +1,17 @@
+[{
+	"firstName":"shavish",
+	"lastName":"pavan",
+	"age":19,
+	"marks":[
+	{"english":23},{"maths":28}],
+	"address":"narayanguda"
+},
+{
+"firstName":"svs",
+	"lastName":"kpavan",
+	"age":20,
+	"marks":[
+	{"english":233},{"maths":283}],
+	"address":"hyd"
+}
+]
